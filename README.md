@@ -49,7 +49,7 @@ python Lista_App.py
 </ol>
 
 ### Como Usar
-![Image](https://github.com/user-attachments/assets/f344d3b2-0217-47f6-ab42-29691289c8c1)
+
 <ol>
 <li>Abra o programa.</li>
 
@@ -63,6 +63,8 @@ python Lista_App.py
 
 <li>Clique em "Sair" para fechar o programa.</li>
 </ol>
+
+![Image](https://github.com/user-attachments/assets/f344d3b2-0217-47f6-ab42-29691289c8c1)
 
 ### Estrutura do Código
 
@@ -84,11 +86,11 @@ O programa é dividido em:
 
 #### Interface Gráfica:
 
-Criada com Tkinter e ttkbootstrap.
++ Criada com Tkinter e ttkbootstrap.
 
-Botões para interagir com as tarefas.
++ Botões para interagir com as tarefas.
 
-Listbox para exibir tarefas.
++ Listbox para exibir tarefas.
 
 ### Contribuição
 

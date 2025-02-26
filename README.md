@@ -1,24 +1,24 @@
-<h1>Lista de Tarefas com Interface Gráfica</h1>
+<h1>Task List with Graphical Interface</h1>
 
-### 📌Descrição
+### 📌 Description
 
-Este é um aplicativo de lista de tarefas desenvolvido em Python, utilizando tkinter e ttkbootstrap para a interface gráfica. O programa permite que o usuário adicione, liste, desfaça e refaça tarefas, além de salvar e carregar tarefas de um arquivo JSON.
+This is a task list application developed in Python, using Tkinter and ttkbootstrap for the graphical interface. The program allows the user to add, list, undo, and redo tasks, as well as save and load tasks from a JSON file.
 
-### 🚀Funcionalidades
+### 🚀 Features
 
-+ <b>✅ Adicionar tarefa:</b> Insere uma nova tarefa na lista.
++ <b>✅ Add Task:</b> Inserts a new task into the list.
 
-+ <b>📋 Listar tarefas:</b> Exibe todas as tarefas cadastradas.
++ <b>📋 List Tasks:</b> Displays all registered tasks.
 
-+ <b>🔙 Desfazer:</b> Remove a última tarefa adicionada.
++ <b>🔙 Undo:</b> Removes the last added task.
 
-+ <b>🔄 Refazer:</b> Restaura a última tarefa removida.
++ <b>🔄 Redo:</b> Restores the last removed task.
 
-+ <b>💾 Salvar e carregar tarefas:</b> As tarefas são salvas em um arquivo JSON para persistência.
++ <b>💾 Save and Load Tasks:</b> Tasks are saved in a JSON file for persistence.
 
-+ <b>🎨 Interface gráfica:</b> Criada com Tkinter e ttkbootstrap.
++ <b>🎨 Graphical Interface:</b> Built with Tkinter and ttkbootstrap.
 
-### 🛠️Tecnologias Utilizadas
+### 🛠️ Technologies Used
 
 + Python
 
@@ -26,90 +26,90 @@ Este é um aplicativo de lista de tarefas desenvolvido em Python, utilizando tki
 
 + ttkbootstrap
 
-+ JSON (para armazenamento de dados)    
++ JSON (for data storage)    
 
-### 📥Instalação
+### 📥 Installation
 
 <ol>
-<li>Clone este repositório:</li>
+<li>Clone this repository:</li>
 
 git clone https://github.com/YagoMDS/Lista_de_Tarefas.git
 
-<li>Crie um ambiente virtual:</li>
+<li>Create a virtual environment:</li>
 python -m venv venv
 venv\Scripts\Activate
 
-<li>Instale as dependências necessárias:</li>
+<li>Install the required dependencies:</li>
 
 pip install -r requirements.txt
 
-<li>Execute o programa:</li>
+<li>Run the program:</li>
 
 python Lista_App.py
 </ol>
 
-### ▶️ Como Usar
+### ▶️ How to Use
 
 <ol>
-<li>Abra o programa.</li>
+<li>Open the program.</li>
 
-<li>Digite uma tarefa no campo de entrada e clique em <strong>"Incluir"</strong>.</li>
+<li>Enter a task in the input field and click <strong>"Add"</strong>.</li>
 
-<li>Para visualizar as tarefas, clique em <strong>"Listar Tarefas"</strong>.</li>
+<li>To view tasks, click <strong>"List Tasks"</strong>.</li>
 
-<li>Utilize <strong>"Desfazer"</strong> para remover a última tarefa adicionada.</li>
+<li>Use <strong>"Undo"</strong> to remove the last added task.</li>
 
-<li>Utilize <strong>"Refazer"</strong> para restaurar uma tarefa removida.</li>
+<li>Use <strong>"Redo"</strong> to restore a removed task.</li>
 
-<li>Clique em <strong>"Sair"</strong> para fechar o programa.</li>
+<li>Click <strong>"Exit"</strong> to close the program.</li>
 </ol>
 
 ![Image](https://github.com/user-attachments/assets/f344d3b2-0217-47f6-ab42-29691289c8c1)
 
-### 📁 Estrutura do Código
+### 📁 Code Structure
 
-O programa é dividido em:
+The program is divided into:
 
-#### Funções para manipulação das tarefas:
+#### Functions for Task Management:
 
-+ <strong>incluir</strong>(tarefa, lista): Adiciona uma nova tarefa.
++ <strong>incluir</strong>(task, list): Adds a new task.
 
-+ listar(lista): Lista todas as tarefas.
++ listar(list): Lists all tasks.
 
-+ desfazer(lista): Remove a última tarefa.
++ desfazer(list): Removes the last task.
 
-+ refazer(lista, listacopia): Restaura a última tarefa removida.
++ refazer(list, list_copy): Restores the last removed task.
 
-+ ler(caminho_arquivo): Carrega tarefas do arquivo JSON.
++ ler(file_path): Loads tasks from the JSON file.
 
-+ salvar(tarefas, caminho_arquivo): Salva tarefas no arquivo JSON.
++ salvar(tasks, file_path): Saves tasks to the JSON file.
 
-#### Interface Gráfica:
+#### Graphical Interface:
 
-+ Criada com Tkinter e ttkbootstrap.
++ Built with Tkinter and ttkbootstrap.
 
-+ Botões para interagir com as tarefas.
++ Buttons to interact with tasks.
 
-+ Listbox para exibir tarefas.
++ Listbox to display tasks.
 
-### 🤝 Contribuição
+### 🤝 Contribution
 
 <ol>
 
-<li>Fork este repositório.</li>
+<li>Fork this repository.</li>
 
-<li>Crie um branch para sua funcionalidade <strong>(git checkout -b minha-melhoria</strong>).</li>
+<li>Create a branch for your feature <strong>(git checkout -b my-feature</strong>).</li>
 
-<li>Comite suas mudanças (<strong>git commit -m 'Adicionando uma nova funcionalidade'</strong>).</li>
+<li>Commit your changes (<strong>git commit -m 'Adding a new feature'</strong>).</li>
 
-<li>Envie para o branch principal <strong>(git push origin minha-melhoria</strong>)</li>
+<li>Push to the main branch <strong>(git push origin my-feature</strong>).</li>
 
-<li>Abra um Pull Request.</li>
+<li>Open a Pull Request.</li>
 </ol>
 
-### 👨‍💻 Autor
+### 👨‍💻 Author
 
-Desenvolvido por Yago Magalhães da Silva.
+Developed by Yago Magalhães da Silva.
 
 LinkedIn: https://www.linkedin.com/in/yago-magalhaes-silva/
 

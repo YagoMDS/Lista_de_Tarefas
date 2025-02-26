@@ -45,7 +45,7 @@ python seu_arquivo.py
 </ol>
 
 ### Como Usar
-
+![Image](https://github.com/user-attachments/assets/f344d3b2-0217-47f6-ab42-29691289c8c1)
 <ol>
 <li>Abra o programa.</li>
 

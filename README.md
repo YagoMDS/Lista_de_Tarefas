@@ -1,24 +1,24 @@
 <h1>Lista de Tarefas com Interface Gráfica</h1>
 
-### Descrição
+### 📌Descrição
 
 Este é um aplicativo de lista de tarefas desenvolvido em Python, utilizando tkinter e ttkbootstrap para a interface gráfica. O programa permite que o usuário adicione, liste, desfaça e refaça tarefas, além de salvar e carregar tarefas de um arquivo JSON.
 
-### Funcionalidades
+### ⚙️Funcionalidades
 
-+ <b>Adicionar tarefa:</b> Insere uma nova tarefa na lista.
++ <b>✅ Adicionar tarefa:</b> Insere uma nova tarefa na lista.
 
-+ <b>Listar tarefas:</b> Exibe todas as tarefas cadastradas.
++ <b>📋 Listar tarefas:</b> Exibe todas as tarefas cadastradas.
 
-+ <b>Desfazer:</b> Remove a última tarefa adicionada.
++ <b>🔙 Desfazer:</b> Remove a última tarefa adicionada.
 
-+ <b>Refazer:</b> Restaura a última tarefa removida.
++ <b>🔄 Refazer:</b> Restaura a última tarefa removida.
 
-+ <b>Salvar e carregar tarefas:</b> As tarefas são salvas em um arquivo JSON para persistência.
++ <b>💾 Salvar e carregar tarefas:</b> As tarefas são salvas em um arquivo JSON para persistência.
 
-+ <b>Interface gráfica:</b> Criada com Tkinter e ttkbootstrap.
++ <b>🎨 Interface gráfica:</b> Criada com Tkinter e ttkbootstrap.
 
-### Tecnologias Utilizadas
+### 🛠️Tecnologias Utilizadas
 
 + Python
 
@@ -28,7 +28,7 @@ Este é um aplicativo de lista de tarefas desenvolvido em Python, utilizando tki
 
 + JSON (para armazenamento de dados)    
 
-### Instalação
+### 📥Instalação
 
 <ol>
 <li>Clone este repositório:</li>

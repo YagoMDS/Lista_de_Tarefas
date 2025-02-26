@@ -94,7 +94,7 @@ O programa é dividido em:
 
 ### 🤝 Contribuição
 
-<ol>
+<ol><br>
 Se desejar contribuir com melhorias, siga os passos:<br>
 
 <li>Fork este repositório.</li>

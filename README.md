@@ -95,9 +95,8 @@ O programa é dividido em:
 ### 🤝 Contribuição
 
 <ol>
-Se desejar contribuir com melhorias, siga os passos:
 
-<br><li>Fork este repositório.</li>
+<li>Fork este repositório.</li>
 
 <li>Crie um branch para sua funcionalidade <strong>git checkout -b minha-melhoria</strong>.</li>
 

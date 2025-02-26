@@ -4,7 +4,7 @@
 
 Este é um aplicativo de lista de tarefas desenvolvido em Python, utilizando tkinter e ttkbootstrap para a interface gráfica. O programa permite que o usuário adicione, liste, desfaça e refaça tarefas, além de salvar e carregar tarefas de um arquivo JSON.
 
-### ⚙️Funcionalidades
+### 🚀Funcionalidades
 
 + <b>✅ Adicionar tarefa:</b> Insere uma nova tarefa na lista.
 
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 python Lista_App.py
 </ol>
 
-### Como Usar
+### ▶️ Como Usar
 
 <ol>
 <li>Abra o programa.</li>
@@ -66,7 +66,7 @@ python Lista_App.py
 
 ![Image](https://github.com/user-attachments/assets/f344d3b2-0217-47f6-ab42-29691289c8c1)
 
-### Estrutura do Código
+### 📁 Estrutura do Código
 
 O programa é dividido em:
 
@@ -92,7 +92,7 @@ O programa é dividido em:
 
 + Listbox para exibir tarefas.
 
-### Contribuição
+### 🤝 Contribuição
 
 <ol>Se desejar contribuir com melhorias, siga os passos:
 
@@ -107,7 +107,7 @@ O programa é dividido em:
 <li>Abra um Pull Request.</li>
 </ol>
 
-### Autor
+### 👨‍💻 Autor
 
 Desenvolvido por Yago Magalhães da Silva.
 

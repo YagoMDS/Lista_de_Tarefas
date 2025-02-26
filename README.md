@@ -53,13 +53,13 @@ python Lista_App.py
 <ol>
 <li>Abra o programa.</li>
 
-<li>Digite uma tarefa no campo de entrada e clique em "Incluir".</li>
+<li>Digite uma tarefa no campo de entrada e clique em <strong>"Incluir"</strong>.</li>
 
-<li>Para visualizar as tarefas, clique em "Listar Tarefas".</li>
+<li>Para visualizar as tarefas, clique em <strong>"Listar Tarefas"</strong>.</li>
 
-<li>Utilize "Desfazer" para remover a última tarefa adicionada.</li>
+<li>Utilize <strong>"Desfazer"</strong> para remover a última tarefa adicionada.</li>
 
-<li>Utilize "Refazer" para restaurar uma tarefa removida.</li>
+<li>Utilize <strong>"Refazer"</strong> para restaurar uma tarefa removida.</li>
 
 <li>Clique em "Sair" para fechar o programa.</li>
 </ol>
@@ -72,7 +72,7 @@ O programa é dividido em:
 
 #### Funções para manipulação das tarefas:
 
-+ incluir(tarefa, lista): Adiciona uma nova tarefa.
++ <strong>incluir</strong>(tarefa, lista): Adiciona uma nova tarefa.
 
 + listar(lista): Lista todas as tarefas.
 

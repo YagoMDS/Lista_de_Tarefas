@@ -90,6 +90,28 @@ Botões para interagir com as tarefas.
 
 Listbox para exibir tarefas.
 
+### Contribuição
+
+<ol>
+Se desejar contribuir com melhorias, siga os passos:
+
+<li>Fork este repositório.</li>
+
+<li>Crie um branch para sua funcionalidade (git checkout -b minha-melhoria).</li>
+
+<li>Comite suas mudanças (git commit -m 'Adicionando uma nova funcionalidade').</li>
+
+<li>Envie para o branch principal (git push origin minha-melhoria).</li>
+
+<li>Abra um Pull Request.</li>
+</ol>
+
 ### Autor
 
-Desenvolvido por [Seu Nome].
+Desenvolvido por Yago Magalhães da Silva.
+
+LinkedIn: https://www.linkedin.com/in/yago-magalhaes-silva/
+
+GitHub: https://github.com/YagoMDS
+
+

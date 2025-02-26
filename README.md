@@ -1,8 +1,8 @@
-<h1>Lista de Tarefas com Desfazer e Refazer</h1>
+<h1>Lista de Tarefas com Interface Gráfica</h1>
 
 ### Descrição
 
-Este é um programa desenvolvido em Python que permite gerenciar uma lista de tarefas com funcionalidades de adicionar, listar, desfazer e refazer tarefas. A interface gráfica foi criada utilizando Tkinter e a biblioteca ttkbootstrap para um design moderno.
+Este é um aplicativo de lista de tarefas desenvolvido em Python, utilizando tkinter e ttkbootstrap para a interface gráfica. O programa permite que o usuário adicione, liste, desfaça e refaça tarefas, além de salvar e carregar tarefas de um arquivo JSON.
 
 ### Funcionalidades
 
@@ -26,22 +26,26 @@ Este é um programa desenvolvido em Python que permite gerenciar uma lista de ta
 
 + ttkbootstrap
 
-+ JSON para armazenamento
++ JSON (para armazenamento de dados)    
 
 ### Instalação
 
 <ol>
 <li>Clone este repositório:</li>
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/YagoMDS/Lista_de_Tarefas.git
+
+<li>Crie um ambiente virtual:</li>
+python -m venv venv
+venv\Scripts\Activate
 
 <li>Instale as dependências necessárias:</li>
 
-pip install ttkbootstrap
+pip install -r requirements.txt
 
 <li>Execute o programa:</li>
 
-python seu_arquivo.py
+python Lista_App.py
 </ol>
 
 ### Como Usar

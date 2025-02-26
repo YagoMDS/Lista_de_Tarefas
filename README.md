@@ -1,22 +1,22 @@
 <h1>Lista de Tarefas com Desfazer e Refazer</h1>
 
-Descrição
+### Descrição
 
 Este é um programa desenvolvido em Python que permite gerenciar uma lista de tarefas com funcionalidades de adicionar, listar, desfazer e refazer tarefas. A interface gráfica foi criada utilizando Tkinter e a biblioteca ttkbootstrap para um design moderno.
 
-Funcionalidades
+### Funcionalidades
 
-Adicionar tarefa: Insere uma nova tarefa na lista.
++ Adicionar tarefa: Insere uma nova tarefa na lista.
 
-Listar tarefas: Exibe todas as tarefas cadastradas.
++ Listar tarefas: Exibe todas as tarefas cadastradas.
 
-Desfazer: Remove a última tarefa adicionada.
++ Desfazer: Remove a última tarefa adicionada.
 
-Refazer: Restaura a última tarefa removida.
++ Refazer: Restaura a última tarefa removida.
 
-Salvar e carregar tarefas: As tarefas são salvas em um arquivo JSON para persistência.
++ Salvar e carregar tarefas: As tarefas são salvas em um arquivo JSON para persistência.
 
-Interface gráfica: Criada com Tkinter e ttkbootstrap.
++ Interface gráfica: Criada com Tkinter e ttkbootstrap.
 
 Tecnologias Utilizadas
 

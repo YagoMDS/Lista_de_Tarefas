@@ -198,22 +198,6 @@ def main():
         if resposta:
             root.quit()  # Fecha a janela e encerra o programa
 
-    # Botões para ações
-    # botao_adicionar = tk.Button(root, text="Incluir", command=adicionar_tarefa)
-    # botao_adicionar.grid(row=0, column=1, padx=1, pady=1, sticky="w")
-    
-    # botao_desfazer = tk.Button(root, text="Desfazer", command=desfazer_tarefa)
-    # botao_desfazer.grid(row=1, column=1, padx=1, pady=1, sticky="w")
-
-    # botao_refazer = tk.Button(root, text="Refazer", command=refazer_tarefa)
-    # botao_refazer.grid(row=1, column=2, padx=1, pady=1, sticky="w")
-
-    # botao_listar = tk.Button(root, text="Listar Tarefas", command=listar_tarefas)
-    # botao_listar.grid(row=1, column=3, padx=1, pady=1, sticky="w")
-
-    # botao_sair = tk.Button(root, text="Sair", command=sair)  # Botão "Sair"
-    # botao_sair.grid(row=1, column=4, padx=1, pady=1, sticky="w")
-
     
     # Inicia a interface gráfica
     root.mainloop()

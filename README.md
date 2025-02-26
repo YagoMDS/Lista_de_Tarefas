@@ -20,27 +20,29 @@ Este é um programa desenvolvido em Python que permite gerenciar uma lista de ta
 
 ### Tecnologias Utilizadas
 
-Python
++ Python
 
-Tkinter
++ Tkinter
 
-ttkbootstrap
++ ttkbootstrap
 
-JSON para armazenamento
++ JSON para armazenamento
 
 ### Instalação
 
-Clone este repositório:
+<ol>
+<li>Clone este repositório:</li>
 
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
-Instale as dependências necessárias:
+<li>Instale as dependências necessárias:</li>
 
 pip install ttkbootstrap
 
-Execute o programa:
+<li>Execute o programa:</li>
 
 python seu_arquivo.py
+</ol>
 
 ### Como Usar
 

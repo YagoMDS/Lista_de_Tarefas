@@ -6,17 +6,17 @@ Este é um programa desenvolvido em Python que permite gerenciar uma lista de ta
 
 ### Funcionalidades
 
-+ Adicionar tarefa: Insere uma nova tarefa na lista.
++ <b>Adicionar tarefa:</b> Insere uma nova tarefa na lista.
 
-+ Listar tarefas: Exibe todas as tarefas cadastradas.
++ <b>Listar tarefas:</b> Exibe todas as tarefas cadastradas.
 
-+ Desfazer: Remove a última tarefa adicionada.
++ <b>Desfazer:</b> Remove a última tarefa adicionada.
 
-+ Refazer: Restaura a última tarefa removida.
++ <b>Refazer:</b> Restaura a última tarefa removida.
 
-+ Salvar e carregar tarefas: As tarefas são salvas em um arquivo JSON para persistência.
++ <b>Salvar e carregar tarefas:</b> As tarefas são salvas em um arquivo JSON para persistência.
 
-+ Interface gráfica: Criada com Tkinter e ttkbootstrap.
++ <b>Interface gráfica:</b> Criada com Tkinter e ttkbootstrap.
 
 ### Tecnologias Utilizadas
 

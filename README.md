@@ -68,21 +68,21 @@ python Lista_App.py
 
 O programa é dividido em:
 
-Funções para manipulação das tarefas:
+#### Funções para manipulação das tarefas:
 
-incluir(tarefa, lista): Adiciona uma nova tarefa.
++ incluir(tarefa, lista): Adiciona uma nova tarefa.
 
-listar(lista): Lista todas as tarefas.
++ listar(lista): Lista todas as tarefas.
 
-desfazer(lista): Remove a última tarefa.
++ desfazer(lista): Remove a última tarefa.
 
-refazer(lista, listacopia): Restaura a última tarefa removida.
++ refazer(lista, listacopia): Restaura a última tarefa removida.
 
-ler(caminho_arquivo): Carrega tarefas do arquivo JSON.
++ ler(caminho_arquivo): Carrega tarefas do arquivo JSON.
 
-salvar(tarefas, caminho_arquivo): Salva tarefas no arquivo JSON.
++ salvar(tarefas, caminho_arquivo): Salva tarefas no arquivo JSON.
 
-Interface Gráfica:
+#### Interface Gráfica:
 
 Criada com Tkinter e ttkbootstrap.
 

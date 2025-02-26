@@ -61,7 +61,7 @@ python Lista_App.py
 
 <li>Utilize <strong>"Refazer"</strong> para restaurar uma tarefa removida.</li>
 
-<li>Clique em "Sair" para fechar o programa.</li>
+<li>Clique em <strong>"Sair"</strong> para fechar o programa.</li>
 </ol>
 
 ![Image](https://github.com/user-attachments/assets/f344d3b2-0217-47f6-ab42-29691289c8c1)

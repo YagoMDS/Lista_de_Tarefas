@@ -99,14 +99,11 @@ Se desejar contribuir com melhorias, siga os passos:
 
 <li>Fork este repositório.</li>
 
-<li>Crie um branch para sua funcionalidade:</li>
-git checkout -b minha-melhoria.
+<li>Crie um branch para sua funcionalidade *(git checkout -b minha-melhoria)*.</li>
 
-<li>Comite suas mudanças:</li>
-git commit -m 'Adicionando uma nova funcionalidade'.
+<li>Comite suas mudanças *(git commit -m 'Adicionando uma nova funcionalidade')*.</li>
 
-<li>Envie para o branch principal:</li>
-git push origin minha-melhoria.
+<li>Envie para o branch principal *(git push origin minha-melhoria)*.</li>
 
 <li>Abra um Pull Request.</li>
 </ol>

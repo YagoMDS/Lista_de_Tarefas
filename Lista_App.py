@@ -90,6 +90,7 @@ def refazer(lista = None, listacopia = None):
     return lista
 
 
+# Função para ler as tarefas salvas em um arquivo JSON
 def ler(caminho_arquivo):
     try:
         with open(caminho_arquivo, "r", encoding='utf8') as arquivo:
@@ -99,11 +100,13 @@ def ler(caminho_arquivo):
     return []
 
 
+# Função para salvar as tarefas no arquivo JSON
 def salvar(tarefas, caminho_arquivo):
     with open(caminho_arquivo, "w", encoding="utf8") as arquivo:
         json.dump(tarefas, arquivo, indent=2, ensure_ascii=False)
 
 
+# Função principal da aplicação
 def main():
 
     CAMINHO_ARQUIVO = 'lista_de_tarefas.json'
@@ -117,8 +120,9 @@ def main():
     root.geometry("510x500")
     root.columnconfigure(0, weight=1)
     root.rowconfigure(2, weight=1)
-    style = Style(theme="superhero")
+    style = Style(theme="superhero") # Define um tema moderno
 
+    # Frame para entrada de tarefas
     frame_topo = ttk.Frame(root)
     frame_topo.grid(row=0, column=0, padx=10, pady=5, sticky="ew")
     frame_topo.columnconfigure(0, weight=1)
@@ -129,6 +133,7 @@ def main():
     botao_adicionar = ttk.Button(frame_topo, text="Incluir", command=lambda: adicionar_tarefa())
     botao_adicionar.grid(row=0, column=1, padx=5, pady=5)
 
+    # Frame para botões de ação
     frame_botoes = ttk.Frame(root)
     frame_botoes.grid(row=1, column=0, padx=10, pady=5, sticky="ew")
     frame_botoes.columnconfigure((0, 1, 2, 3, 4), weight=1)
@@ -145,6 +150,7 @@ def main():
     botao_sair = ttk.Button(frame_botoes, text="Sair", command=lambda: sair())
     botao_sair.grid(row=0, column=3, padx=5, pady=5, sticky="ew")
 
+    # Lista de tarefas
     listbox = tk.Listbox(root, width=50, height=15, font=("Arial", 10))
     listbox.grid(row=2, column=0, padx=10, pady=5, sticky="nsew")
 

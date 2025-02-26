@@ -98,11 +98,11 @@ O programa é dividido em:
 
 <li>Fork este repositório.</li>
 
-<li>Crie um branch para sua funcionalidade <strong>git checkout -b minha-melhoria</strong>.</li>
+<li>Crie um branch para sua funcionalidade <strong>(git checkout -b minha-melhoria</strong>).</li>
 
-<li>Comite suas mudanças <strong>git commit -m 'Adicionando uma nova funcionalidade'</strong>.</li>
+<li>Comite suas mudanças (<strong>git commit -m 'Adicionando uma nova funcionalidade'</strong>).</li>
 
-<li>Envie para o branch principal <strong>git push origin minha-melhoria</strong></li>
+<li>Envie para o branch principal <strong>(git push origin minha-melhoria</strong>)</li>
 
 <li>Abra um Pull Request.</li>
 </ol>
@@ -114,6 +114,3 @@ Desenvolvido por Yago Magalhães da Silva.
 LinkedIn: https://www.linkedin.com/in/yago-magalhaes-silva/
 
 GitHub: https://github.com/YagoMDS
-
-1. teste
-2. teste

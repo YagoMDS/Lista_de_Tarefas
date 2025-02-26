@@ -18,7 +18,7 @@ Este é um programa desenvolvido em Python que permite gerenciar uma lista de ta
 
 + Interface gráfica: Criada com Tkinter e ttkbootstrap.
 
-Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 Python
 
@@ -28,7 +28,7 @@ ttkbootstrap
 
 JSON para armazenamento
 
-Instalação
+### Instalação
 
 Clone este repositório:
 
@@ -42,7 +42,7 @@ Execute o programa:
 
 python seu_arquivo.py
 
-Como Usar
+### Como Usar
 
 Abra o programa.
 
@@ -56,7 +56,7 @@ Utilize "Refazer" para restaurar uma tarefa removida.
 
 Clique em "Sair" para fechar o programa.
 
-Estrutura do Código
+### Estrutura do Código
 
 O programa é dividido em:
 
@@ -82,6 +82,6 @@ Botões para interagir com as tarefas.
 
 Listbox para exibir tarefas.
 
-Autor
+### Autor
 
 Desenvolvido por [Seu Nome].

@@ -46,17 +46,19 @@ python seu_arquivo.py
 
 ### Como Usar
 
-Abra o programa.
+<ol>
+<li>Abra o programa.</li>
 
-Digite uma tarefa no campo de entrada e clique em "Incluir".
+<li>Digite uma tarefa no campo de entrada e clique em "Incluir".</li>
 
-Para visualizar as tarefas, clique em "Listar Tarefas".
+<li>Para visualizar as tarefas, clique em "Listar Tarefas".</li>
 
-Utilize "Desfazer" para remover a última tarefa adicionada.
+<li>Utilize "Desfazer" para remover a última tarefa adicionada.</li>
 
-Utilize "Refazer" para restaurar uma tarefa removida.
+<li>Utilize "Refazer" para restaurar uma tarefa removida.</li>
 
-Clique em "Sair" para fechar o programa.
+<li>Clique em "Sair" para fechar o programa.</li>
+</ol>
 
 ### Estrutura do Código
 
